@@ -1,4 +1,7 @@
 # Star Wars Repo
 
-![./nave Star Wars.png](Nave Star Wars)
+![Nave Star Wars](nave Star Wars.png)
+
 Esse repositório serve de exemplo para o curso de Git e GitHub
+
+...
