@@ -8,3 +8,4 @@ Tie Silencer Do Kylo Ren
 A-Wing Rz-2 Da Tallie Lintra
 Nave Teste commits branchs distintas
 branch-teste
+teste- commit --amend
